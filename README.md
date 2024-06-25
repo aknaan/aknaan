@@ -1,5 +1,22 @@
-<h1>Hi 👋</h1>
-<h3 align="left">I'm married, and a proud father of a little naughty boy. I worked as a basketball coach for the past 13 years, working at the highest levels and had the opportunity to coach abroad in Spain, France and Croatia. In the last few years I decided to dedicate myself to a passion I always had-learning about tech products and their lifecycle. I started to learn coding as a full-stack developer, and after I successfully completed my studies as a Full Stack Java Developer from John Bryce Academy and TripleTen frontend program, I felt something is missing... Where does the app lives? How it's deployed? how my computer reach the app? That led me to be curious about DevOps engineering, and doday, I'm happy to say that I'm a DevOps engineer</h3>
+<h1>״Hello World 😉 "</h1>
+<h3 align="left">
+
+My name is Amir knaan, I'm married, and a proud father of a little naughty boy.
+
+I worked as a basketball coach for the past 13 years, working at the highest levels and had the opportunity to coach abroad- in Spain, France and Croatia. 
+In the past few years I decided to dedicate myself to a passion I always had-learning about tech products and their lifecycle. I went for a full-stack development course.
+
+After I successfully completed my studies as a Full Stack Java Developer from John Bryce Academy  and TripleTen frontend program, I felt something is missing.
+
+Once I started to code, I was curious to figure out what is the bigger picture. Where those apps run? how do you deploy an app effectively? How you manage a production environment? 
+Those questions and wish to get answers lead me to join InfinityLabs DevOps program, which changed my life.
+
+I got my hand on diverse tools:
+AWS | Jenkins | Git | GitLab | Bash | Linux | Docker | K8S | ArgoCD | Terraform | Ansible | Python | Java and more :)
+
+If you'd like to get in touch, I would be very happy to connect:
+Email: aknaan1510@gmail.com
+WhatsApp: +972542020286</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
